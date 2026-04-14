@@ -97,18 +97,18 @@ const ignacio = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=NachoD99&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NachoD99&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=TU_USUARIO&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="700"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=NachoD99&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="700"/>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NachoD99&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff" width="95%"/>
 </div>
 
 ---
@@ -116,7 +116,7 @@ const ignacio = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TU_USUARIO&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" width="95%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=NachoD99&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" width="95%"/>
 </div>
 
 ---
@@ -124,7 +124,7 @@ const ignacio = {
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/github-snake-dark.svg" width="100%"/>
+  <img src="https://raw.githubusercontent.com/NachoD99/NachoD99/output/github-snake-dark.svg" width="100%"/>
 </div>
 
 <!-- Para activar la snake, crea un GitHub Action en tu repo con el workflow de "snk" -->
@@ -141,7 +141,7 @@ const ignacio = {
 
 <br>
 
-![Visitors](https://komarev.com/ghpvc/?username=TU_USUARIO&color=58a6ff&style=for-the-badge&label=VISITORS)
+![Visitors](https://komarev.com/ghpvc/?username=NachoD99&color=58a6ff&style=for-the-badge&label=VISITORS)
 
 <br>
 
