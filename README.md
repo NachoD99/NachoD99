@@ -119,7 +119,7 @@ const ignacio = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NachoD99&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=10" width="95%"/>
+  <img src="https://github-profile-trophy-kannan.vercel.app/?username=NachoD99&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" width="95%"/>
 </div>
 
 ---
