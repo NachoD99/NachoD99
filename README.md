@@ -1,7 +1,9 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=220&section=header&text=Ignacio%20Davanzo&fontSize=52&fontColor=58a6ff&fontAlignY=35&desc=Systems%20Engineer%20%7C%20.NET%20%26%20Cloud%20%7C%20Full%20Stack&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%"/>
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hey, I'm Ignacio Davanzo
+
+### Systems Engineer | .NET & Cloud | Full Stack
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=500&height=45&lines=Arquitectura+%7C+CI%2FCD+%7C+Cloud;%2B5+a%C3%B1os+construyendo+soluciones;Infraestructura+%7C+Automatizaci%C3%B3n" alt="Typing SVG" /></a>
@@ -95,13 +97,13 @@ const ignacio = {
 
 ## 📊 GitHub Stats
 
-<!-- ⚠️ Reemplazá NachoD99 por tu username real de GitHub -->
+<!-- ⚠️ Reemplazá NachoD99 por tu username real de GitHub
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=NachoD99&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NachoD99&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
 </div>
-
+ -->
 <br>
 
 <div align="center">
