@@ -1,16 +1,16 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=220&section=header&text=Ignacio%20Davanzo&fontSize=52&fontColor=58a6ff&fontAlignY=35&desc=Systems%20Engineer%20%7C%20.NET%20%26%20Cloud%20Engineer%20%7C%20Full%20Stack%20Developer&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=220&section=header&text=Ignacio%20Davanzo&fontSize=52&fontColor=58a6ff&fontAlignY=35&desc=Systems%20Engineer%20%7C%20.NET%20%26%20Cloud%20%7C%20Full%20Stack&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%"/>
 
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=70&lines=Arquitectura+%7C+CI%2FCD+%7C+Infraestructura+%7C+Automatizaci%C3%B3n;Construyendo+soluciones+empresariales+desde+hace+%2B5+a%C3%B1os)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=500&height=45&lines=Arquitectura+%7C+CI%2FCD+%7C+Cloud;%2B5+a%C3%B1os+construyendo+soluciones;Infraestructura+%7C+Automatizaci%C3%B3n" alt="Typing SVG" /></a>
 
 <br>
 
 <!-- Social Badges -->
 [![Email](https://img.shields.io/badge/nachodavanzo@gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0d1117)](mailto:nachodavanzo@gmail.com)
-[![Location](https://img.shields.io/badge/Málaga,%20España-0d1117?style=for-the-badge&logo=google-maps&logoColor=4285F4&labelColor=0d1117)](https://maps.google.com/?q=Málaga,España)
+[![Location](https://img.shields.io/badge/Málaga,%20España-0d1117?style=for-the-badge&logo=googlemaps&logoColor=4285F4&labelColor=0d1117)](https://maps.google.com/?q=Málaga,España)
 [![Phone](https://img.shields.io/badge/+34%20600%20748%20797-0d1117?style=for-the-badge&logo=whatsapp&logoColor=25D366&labelColor=0d1117)](https://wa.me/34600748797)
 
 </div>
@@ -58,8 +58,8 @@ const ignacio = {
 ### 💻 Lenguajes
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=fff)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=fff)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=fff)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=fff)
 
 ### 🖥️ Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -69,26 +69,25 @@ const ignacio = {
 
 ### ⚙️ Backend & Frameworks
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=fff)
-![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=fff)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=fff)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=fff)
 ![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=flat-square&logo=dotnet&logoColor=fff)
-![NHibernate](https://img.shields.io/badge/NHibernate-59666C?style=flat-square&logo=hibernate&logoColor=fff)
+![Xamarin](https://img.shields.io/badge/Xamarin-3498DB?style=flat-square&logo=xamarin&logoColor=fff)
 
 ### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-web-services&logoColor=FF9900)
-![S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazon-s3&logoColor=fff)
-![CloudFront](https://img.shields.io/badge/CloudFront-8C4FFF?style=flat-square&logo=amazon-aws&logoColor=fff)
-![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=aws-lambda&logoColor=fff)
-![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazon-ec2&logoColor=fff)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=fff)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=fff)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=FF9900)
+![S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=fff)
+![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=fff)
+![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=fff)
+![CloudFront](https://img.shields.io/badge/CloudFront-8C4FFF?style=flat-square&logo=amazoncloudwatch&logoColor=fff)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=fff)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=fff)
 ![PM2](https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2&logoColor=fff)
 
 ### 🛠️ Herramientas
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=fff)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=fff)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=fff)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=fff)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=fff)
 
 </div>
 
@@ -96,13 +95,17 @@ const ignacio = {
 
 ## 📊 GitHub Stats
 
+<!-- ⚠️ Reemplazá NachoD99 por tu username real de GitHub -->
+
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=NachoD99&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NachoD99&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
 </div>
 
+<br>
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=NachoD99&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="700"/>
+  <img src="https://streak-stats.demolab.com?user=NachoD99&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="700"/>
 </div>
 
 <br>
@@ -116,7 +119,7 @@ const ignacio = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NachoD99&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" width="95%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=NachoD99&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=10" width="95%"/>
 </div>
 
 ---
@@ -124,10 +127,19 @@ const ignacio = {
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/NachoD99/NachoD99/output/github-snake-dark.svg" width="100%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NachoD99/NachoD99/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NachoD99/NachoD99/output/github-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/NachoD99/NachoD99/output/github-snake-dark.svg" width="100%" />
+  </picture>
 </div>
 
-<!-- Para activar la snake, crea un GitHub Action en tu repo con el workflow de "snk" -->
+<!--
+  ⚠️ La snake NO se va a ver hasta que:
+  1. Reemplaces NachoD99 por tu username
+  2. Configures el GitHub Action (snake.yml) en tu repo de perfil
+  3. Lo ejecutes manualmente la primera vez desde la pestaña Actions
+-->
 
 ---
 
