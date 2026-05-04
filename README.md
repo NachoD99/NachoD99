@@ -22,23 +22,19 @@
 ## 🧑‍💻 Sobre mí
 
 ```typescript
-const ignacio = {
-    role: "Software Engineer @ G.C.S SL (España)",
-    education: "Ingeniero en Sistemas de Información — UTN",
-    experience: "+5 años en desarrollo y gestión técnica",
-    languages: { español: "Nativo", english: "Fluent", italiano: "Fluido" },
-    interests: ["Liderazgo IT", "Arquitectura de software", "Cloud Infrastructure"],
-    currentFocus: "React + TypeScript + AWS + CI/CD",
-};
+const ignacio = { role: "IT Systems & Software Engineer @ Helle Hollis (España)", education: "Ingeniero en Sistemas de Información — UTN", experience: "+5 años en desarrollo, arquitectura y gestión técnica", languages: { español: "Nativo", english: "Fluent", italiano: "Fluido" }, interests: ["Liderazgo IT", "Arquitectura de software", "Cloud Infrastructure"], currentFocus: "Arquitectura + Cloud + Estrategia tecnológica + Automatización", };
 ```
 
-> *Ingeniero en Sistemas con visión integral: desarrollo, infraestructura, estrategia y administración tecnológica. Busco impacto real en el negocio, más allá del código.*
+> *Ingeniero en Sistemas con visión integral: desarrollo, infraestructura, estrategia y administración tecnológica. Busco impacto real en el negocio, más allá del código.
+Hoy enfocado en roles con impacto directo en negocio, combinando desarrollo, infraestructura y toma de decisiones tecnológicas.*
 
 ---
 
 ## 🏢 Trayectoria profesional
 
 ```
+2026 ──────── 🚀 IT Systems & Software Engineer — Helle Hollis (España) Liderazgo IT · Arquitectura · Infraestructura · ERP · Seguridad · Transformación digital
+
 2025 ──────── 🚀 Software Engineer — G.C.S SL (España)
                   React · TypeScript · AWS · CI/CD · GitHub Actions
 
