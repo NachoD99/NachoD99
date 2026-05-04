@@ -22,7 +22,21 @@
 ## 🧑‍💻 Sobre mí
 
 ```typescript
-const ignacio = { role: "IT Systems & Software Engineer @ Helle Hollis (España)", education: "Ingeniero en Sistemas de Información — UTN", experience: "+5 años en desarrollo, arquitectura y gestión técnica", languages: { español: "Nativo", english: "Fluent", italiano: "Fluido" }, interests: ["Liderazgo IT", "Arquitectura de software", "Cloud Infrastructure"], currentFocus: "Arquitectura + Cloud + Estrategia tecnológica + Automatización", };
+const ignacio = {
+role: "IT Systems & Software Engineer @ Helle Hollis (España)",
+education: "Ingeniero en Sistemas de Información — UTN",
+experience: "+5 años en desarrollo, arquitectura y gestión técnica",
+languages: {
+español: "Nativo",
+english: "Fluent",
+italiano: "Fluido" },
+interests: [
+"Liderazgo IT",
+"Arquitectura de software",
+"Cloud Infrastructure"
+],
+currentFocus: "Arquitectura + Cloud + Estrategia tecnológica + Automatización",
+};
 ```
 
 > *Ingeniero en Sistemas con visión integral: desarrollo, infraestructura, estrategia y administración tecnológica. Busco impacto real en el negocio, más allá del código.
