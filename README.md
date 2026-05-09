@@ -127,7 +127,7 @@ Hoy enfocado en roles con impacto directo en negocio, combinando desarrollo, inf
 </div>
 
 ---
-
+<!--
 ## 🏆 GitHub Trophies
 
 <div align="center">
@@ -135,7 +135,7 @@ Hoy enfocado en roles con impacto directo en negocio, combinando desarrollo, inf
 </div>
 
 ---
-
+ -->
 ## 🐍 Contribution Snake
 
 <div align="center">
