@@ -8,7 +8,7 @@
 -->
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2200&pause=700&color=00FF41&center=true&vCenter=true&repeat=true&width=650&height=45&lines=%24+whoami;%40nachod99;%24+cat+skills.txt;.NET+%7C+Cloud+%7C+DevOps+%7C+Security" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2200&pause=700&color=00FF41&center=true&vCenter=true&repeat=true&width=650&height=45&lines=%24+whoami;%40nachod99;%24+cat+skills.txt;.NET+%7C+Cloud+%7C+DevOps+%7C+Automatization" alt="Typing SVG" /></a>
 
 <br>
 
