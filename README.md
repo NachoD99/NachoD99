@@ -42,30 +42,11 @@
 
 ## 🏢 Trayectoria profesional
 
-</div>
+<img src="https://raw.githubusercontent.com/NachoD99/NachoD99/main/timeline.svg" width="85%"/>
 
-<table width="100%">
-<tr>
-<td width="15%" align="center"><img src="https://img.shields.io/badge/2026-00FF41?style=for-the-badge&labelColor=000000"/></td>
-<td>🟢 <b>IT Systems & Software Engineer</b> — Helle Hollis (España)<br/><sub>Liderazgo IT · Arquitectura · Infraestructura · ERP · Seguridad · Transformación digital</sub></td>
-</tr>
-<tr>
-<td width="15%" align="center"><img src="https://img.shields.io/badge/2025-00FF41?style=for-the-badge&labelColor=000000"/></td>
-<td>🟢 <b>Software Engineer</b> — G.C.S SL (España)<br/><sub>React · TypeScript · AWS · CI/CD · GitHub Actions</sub></td>
-</tr>
-<tr>
-<td width="15%" align="center"><img src="https://img.shields.io/badge/2023-00FF41?style=for-the-badge&labelColor=000000"/></td>
-<td>🟢 <b>.NET Fullstack Developer</b> — Cegsoft (Puerto Rico)<br/><sub>.NET Framework 4.8 · Angular · SQL Server · Azure DevOps</sub></td>
-</tr>
-<tr>
-<td width="15%" align="center"><img src="https://img.shields.io/badge/2021-00FF41?style=for-the-badge&labelColor=000000"/></td>
-<td>🟢 <b>.NET Fullstack Developer</b> — SanCor Seguros (Argentina)<br/><sub>.NET Core 5 · Xamarin · NHibernate · SOAP</sub></td>
-</tr>
-<tr>
-<td width="15%" align="center"><img src="https://img.shields.io/badge/2018-00FF41?style=for-the-badge&labelColor=000000"/></td>
-<td>🟢 <b>UTN</b> — Ingeniería en Sistemas de Información</td>
-</tr>
-</table>
+<!-- ⚠️ Subí timeline.svg (generado) a la raíz de tu repo, junto a los otros SVG -->
+
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=00FF41&height=2" width="100%"/>
 
@@ -163,6 +144,12 @@
 <br>
 
 *Siempre abierto a nuevos desafíos, colaboraciones y oportunidades de liderazgo tecnológico.*
+
+<br>
+
+![Visitors](https://komarev.com/ghpvc/?username=NachoD99&color=00FF41&style=for-the-badge&label=VISITORS)
+
+<br>
 
 <img src="https://raw.githubusercontent.com/NachoD99/NachoD99/main/matrix-footer.svg" width="100%"/>
 
