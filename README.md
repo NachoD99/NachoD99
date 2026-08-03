@@ -27,7 +27,7 @@
 
 <div align="center">
 
-## 🧑‍💻 Sobre mí
+## Sobre mí
 
 <img src="https://raw.githubusercontent.com/NachoD99/NachoD99/main/terminal-about.svg" width="80%"/>
 
@@ -40,7 +40,7 @@
 
 <div align="center">
 
-## 🏢 Trayectoria profesional
+## Trayectoria profesional
 
 <img src="https://raw.githubusercontent.com/NachoD99/NachoD99/main/timeline.svg" width="85%"/>
 
@@ -52,25 +52,23 @@
 
 <div align="center">
 
-## ⚡ Tech Stack
+## Tech Stack
 
 **Lenguajes & Frontend**
 
-<img src="https://raw.githubusercontent.com/NachoD99/NachoD99/main/tech-row-1.svg" />
+<img src="https://skillicons.dev/icons?i=js,ts,cs,react,angular,vite,materialui&theme=dark" />
 
 <br><br>
 
 **Backend, Cloud & DevOps**
 
-<img src="https://raw.githubusercontent.com/NachoD99/NachoD99/main/tech-row-2.svg" />
+<img src="https://skillicons.dev/icons?i=dotnet,nodejs,aws,githubactions,azure,xamarin&theme=dark" />
 
 <br><br>
 
 **Herramientas & Datos**
 
-<img src="https://raw.githubusercontent.com/NachoD99/NachoD99/main/tech-row-3.svg" />
-
-<!-- ⚠️ Subí tech-row-1.svg, tech-row-2.svg y tech-row-3.svg a la raíz de tu repo -->
+<img src="https://skillicons.dev/icons?i=git,github,jira,mssql&theme=dark" />
 
 </div>
 
@@ -79,7 +77,7 @@
 
 <div align="center">
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 </div>
 
@@ -106,7 +104,7 @@
 <!--
 <div align="center">
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 </div>
 
@@ -118,7 +116,7 @@
  -->
 <div align="center">
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 </div>
 
@@ -141,17 +139,12 @@
 
 <div align="center">
 
-### 📬 ¿Hablamos?
+### ¿Hablamos?
 
 <br>
 
 *Siempre abierto a nuevos desafíos, colaboraciones y oportunidades de liderazgo tecnológico.*
 
-<br>
-
-![Visitors](https://komarev.com/ghpvc/?username=NachoD99&color=00FF41&style=for-the-badge&label=VISITORS)
-
-<br>
 
 <img src="https://raw.githubusercontent.com/NachoD99/NachoD99/main/matrix-footer.svg" width="100%"/>
 
