@@ -1,134 +1,131 @@
 <div align="center">
 
-<!-- Header Banner -->
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hey, I'm Ignacio Davanzo
+<img src="https://raw.githubusercontent.com/NachoD99/NachoD99/main/matrix.svg" width="100%"/>
 
-### Systems Engineer | .NET & Cloud | Full Stack
+<!-- ⚠️ Esta imagen vive en TU repo, no en un servicio externo:
+     1. Subí el archivo matrix-rain.svg (generado) a la raíz de tu repo NachoD99/NachoD99
+     2. Si tu rama por defecto no es "main" (ej. "master"), ajustá la URL de arriba
+-->
 
-<!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=500&height=45&lines=Arquitectura+%7C+CI%2FCD+%7C+Cloud;%2B5+a%C3%B1os+construyendo+soluciones;Infraestructura+%7C+Automatizaci%C3%B3n" alt="Typing SVG" /></a>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2200&pause=700&color=00FF41&center=true&vCenter=true&repeat=true&width=650&height=45&lines=%24+whoami;%40nachod99;%24+cat+skills.txt;.NET+%7C+Cloud+%7C+DevOps+%7C+Security" alt="Typing SVG" /></a>
 
 <br>
 
-<!-- Social Badges -->
-[![Email](https://img.shields.io/badge/nachodavanzo@gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0d1117)](mailto:nachodavanzo@gmail.com)
-[![Location](https://img.shields.io/badge/Málaga,%20España-0d1117?style=for-the-badge&logo=googlemaps&logoColor=4285F4&labelColor=0d1117)](https://maps.google.com/?q=Málaga,España)
-[![Phone](https://img.shields.io/badge/+34%20600%20748%20797-0d1117?style=for-the-badge&logo=whatsapp&logoColor=25D366&labelColor=0d1117)](https://wa.me/34600748797)
+[![Email](https://img.shields.io/badge/nachodavanzo@gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=00FF41&labelColor=000000)](mailto:nachodavanzo@gmail.com)
+[![Location](https://img.shields.io/badge/Málaga,%20España-000000?style=for-the-badge&logo=googlemaps&logoColor=00FF41&labelColor=000000)](https://maps.google.com/?q=Málaga,España)
+[![Phone](https://img.shields.io/badge/+34%20600%20748%20797-000000?style=for-the-badge&logo=whatsapp&logoColor=00FF41&labelColor=000000)](https://wa.me/34600748797)
+
+<br>
+
+![Visitors](https://komarev.com/ghpvc/?username=NachoD99&color=00FF41&style=for-the-badge&label=VISITAS)
+![Followers](https://img.shields.io/github/followers/NachoD99?style=for-the-badge&color=00FF41&labelColor=000000&label=FOLLOWERS)
 
 </div>
 
----
-
-## 🧑‍💻 Sobre mí
-
-```typescript
-const ignacio = {
-role: "IT Systems & Software Engineer @ Helle Hollis (España)",
-education: "Ingeniero en Sistemas de Información — UTN",
-experience: "+5 años en desarrollo, arquitectura y gestión técnica",
-languages: {
-español: "Nativo",
-english: "Fluent",
-italiano: "Fluido" },
-interests: [
-"Liderazgo IT",
-"Arquitectura de software",
-"Cloud Infrastructure"
-],
-currentFocus: "Arquitectura + Cloud + Estrategia tecnológica + Automatización",
-};
-```
-
-> *Ingeniero en Sistemas con visión integral: desarrollo, infraestructura, estrategia y administración tecnológica. Busco impacto real en el negocio, más allá del código.
-Hoy enfocado en roles con impacto directo en negocio, combinando desarrollo, infraestructura y toma de decisiones tecnológicas.*
-
----
-
-## 🏢 Trayectoria profesional
-
-```
-2026 ──────── 🚀 IT Systems & Software Engineer — Helle Hollis (España) Liderazgo IT · Arquitectura · Infraestructura · ERP · Seguridad · Transformación digital
-
-2025 ──────── 🚀 Software Engineer — G.C.S SL (España)
-                  React · TypeScript · AWS · CI/CD · GitHub Actions
-
-2023 ──────── 💼 .NET Fullstack Developer — Cegsoft (Puerto Rico)
-                  .NET Framework 4.8 · Angular · SQL Server · Azure DevOps
-
-2021 ──────── 🏗️ .NET Fullstack Developer — SanCor Seguros (Argentina)
-                  .NET Core 5 · Xamarin · NHibernate · SOAP
-
-2018 ──────── 🎓 UTN — Ingeniería en Sistemas de Información
-```
-
----
-
-## ⚡ Tech Stack
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00FF41&height=2" width="100%"/>
 
 <div align="center">
 
-### 💻 Lenguajes
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=fff)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=fff)
+## 🧑‍💻 Sobre mí
 
-### 🖥️ Frontend
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=fff)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=fff)
-![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=fff)
+<img src="https://raw.githubusercontent.com/NachoD99/NachoD99/main/terminal-about.svg" width="80%"/>
 
-### ⚙️ Backend & Frameworks
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=fff)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=fff)
-![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=flat-square&logo=dotnet&logoColor=fff)
-![Xamarin](https://img.shields.io/badge/Xamarin-3498DB?style=flat-square&logo=xamarin&logoColor=fff)
-
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=FF9900)
-![S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=fff)
-![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=fff)
-![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=fff)
-![CloudFront](https://img.shields.io/badge/CloudFront-8C4FFF?style=flat-square&logo=amazoncloudwatch&logoColor=fff)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=fff)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=fff)
-![PM2](https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2&logoColor=fff)
-
-### 🛠️ Herramientas
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=fff)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=fff)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=fff)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=fff)
+<!-- ⚠️ Subí terminal-about.svg (generado) a la raíz de tu repo NachoD99/NachoD99
+     junto a matrix-rain.svg. Ajustá "main" si tu rama por defecto es "master". -->
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00FF41&height=2" width="100%"/>
+
+<div align="center">
+
+## 🏢 Trayectoria profesional
+
+</div>
+
+<table width="100%">
+<tr>
+<td width="15%" align="center"><img src="https://img.shields.io/badge/2026-00FF41?style=for-the-badge&labelColor=000000"/></td>
+<td>🟢 <b>IT Systems & Software Engineer</b> — Helle Hollis (España)<br/><sub>Liderazgo IT · Arquitectura · Infraestructura · ERP · Seguridad · Transformación digital</sub></td>
+</tr>
+<tr>
+<td width="15%" align="center"><img src="https://img.shields.io/badge/2025-00FF41?style=for-the-badge&labelColor=000000"/></td>
+<td>🟢 <b>Software Engineer</b> — G.C.S SL (España)<br/><sub>React · TypeScript · AWS · CI/CD · GitHub Actions</sub></td>
+</tr>
+<tr>
+<td width="15%" align="center"><img src="https://img.shields.io/badge/2023-00FF41?style=for-the-badge&labelColor=000000"/></td>
+<td>🟢 <b>.NET Fullstack Developer</b> — Cegsoft (Puerto Rico)<br/><sub>.NET Framework 4.8 · Angular · SQL Server · Azure DevOps</sub></td>
+</tr>
+<tr>
+<td width="15%" align="center"><img src="https://img.shields.io/badge/2021-00FF41?style=for-the-badge&labelColor=000000"/></td>
+<td>🟢 <b>.NET Fullstack Developer</b> — SanCor Seguros (Argentina)<br/><sub>.NET Core 5 · Xamarin · NHibernate · SOAP</sub></td>
+</tr>
+<tr>
+<td width="15%" align="center"><img src="https://img.shields.io/badge/2018-00FF41?style=for-the-badge&labelColor=000000"/></td>
+<td>🟢 <b>UTN</b> — Ingeniería en Sistemas de Información</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00FF41&height=2" width="100%"/>
+
+<div align="center">
+
+## ⚡ Tech Stack
+
+**Lenguajes & Frontend**
+
+<img src="https://skillicons.dev/icons?i=js,ts,cs,react,angular,vite,materialui&theme=dark" />
+
+<br><br>
+
+**Backend, Cloud & DevOps**
+
+<img src="https://skillicons.dev/icons?i=dotnet,nodejs,aws,githubactions,azure,xamarin&theme=dark" />
+
+<br><br>
+
+**Herramientas & Datos**
+
+<img src="https://skillicons.dev/icons?i=git,github,jira,mssql&theme=dark" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00FF41&height=2" width="100%"/>
+
+
+<div align="center">
 
 ## 📊 GitHub Stats
+
+</div>
 
 <!-- ⚠️ Reemplazá NachoD99 por tu username real de GitHub
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=NachoD99&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NachoD99&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=NachoD99&show_icons=true&theme=github_dark&hide_border=true&bg_color=transparent&title_color=00FF41&icon_color=00FF41&text_color=eafff0&ring_color=00FF41" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NachoD99&layout=compact&theme=github_dark&hide_border=true&bg_color=transparent&title_color=00FF41&text_color=eafff0" />
 </div>
  -->
 <br>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=NachoD99&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="700"/>
+  <img src="https://streak-stats.demolab.com?user=NachoD99&theme=github-dark-blue&hide_border=true&background=transparent&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&currStreakNum=eafff0&sideNums=eafff0&dates=00FF41" width="700"/>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NachoD99&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NachoD99&theme=github-compact&hide_border=true&bg_color=transparent&color=00FF41&line=00FF41&point=eafff0&area=true&area_color=00FF41" width="95%"/>
 </div>
 
 ---
 <!--
+<div align="center">
+
 ## 🏆 GitHub Trophies
+
+</div>
 
 <div align="center">
   <img src="https://github-profile-trophy-kannan.vercel.app/?username=NachoD99&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" width="95%"/>
@@ -136,7 +133,11 @@ Hoy enfocado en roles con impacto directo en negocio, combinando desarrollo, inf
 
 ---
  -->
+<div align="center">
+
 ## 🐍 Contribution Snake
+
+</div>
 
 <div align="center">
   <picture>
@@ -163,12 +164,8 @@ Hoy enfocado en roles con impacto directo en negocio, combinando desarrollo, inf
 
 *Siempre abierto a nuevos desafíos, colaboraciones y oportunidades de liderazgo tecnológico.*
 
-<br>
+<img src="https://raw.githubusercontent.com/NachoD99/NachoD99/main/matrix-footer.svg" width="100%"/>
 
-![Visitors](https://komarev.com/ghpvc/?username=NachoD99&color=58a6ff&style=for-the-badge&label=VISITORS)
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=120&section=footer" width="100%"/>
+<!-- ⚠️ Subí matrix-footer.svg (generado) a la raíz de tu repo, junto a los otros SVG -->
 
 </div>
