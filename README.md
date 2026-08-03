@@ -56,19 +56,21 @@
 
 **Lenguajes & Frontend**
 
-<img src="https://skillicons.dev/icons?i=js,ts,cs,react,angular,vite,materialui&theme=dark" />
+<img src="https://raw.githubusercontent.com/NachoD99/NachoD99/main/tech-row-1.svg" />
 
 <br><br>
 
 **Backend, Cloud & DevOps**
 
-<img src="https://skillicons.dev/icons?i=dotnet,nodejs,aws,githubactions,azure,xamarin&theme=dark" />
+<img src="https://raw.githubusercontent.com/NachoD99/NachoD99/main/tech-row-2.svg" />
 
 <br><br>
 
 **Herramientas & Datos**
 
-<img src="https://skillicons.dev/icons?i=git,github,jira,mssql&theme=dark" />
+<img src="https://raw.githubusercontent.com/NachoD99/NachoD99/main/tech-row-3.svg" />
+
+<!-- ⚠️ Subí tech-row-1.svg, tech-row-2.svg y tech-row-3.svg a la raíz de tu repo -->
 
 </div>
 
