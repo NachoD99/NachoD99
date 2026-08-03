@@ -1,0 +1,38 @@
+<svg width="900" height="694" viewBox="0 0 900 694" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<clipPath id="roundedWindow"><rect x="0" y="0" width="900" height="694" rx="14" ry="14"/></clipPath>
+</defs>
+<g clip-path="url(#roundedWindow)">
+<rect x="0" y="0" width="900" height="694" fill="#0a0a0a"/>
+<rect x="0" y="0" width="900" height="40" fill="#111111"/>
+<line x1="0" y1="40" x2="900" y2="40" stroke="#00FF41" stroke-opacity="0.25" stroke-width="1"/>
+<circle cx="26" cy="20" r="7" fill="#00FF41"/>
+<circle cx="50" cy="20" r="7" fill="#00b32d"/>
+<circle cx="74" cy="20" r="7" fill="#006418"/>
+<text x="450.0" y="25" text-anchor="middle" font-family="Fira Code, monospace" font-size="14" fill="#8fffb0">@nachod99:~</text>
+<rect x="0.5" y="0.5" width="899" height="693" rx="14" ry="14" fill="none" stroke="#00FF41" stroke-opacity="0.35" stroke-width="1"/>
+<g font-family="Fira Code, monospace" font-size="15">
+  <text x="28" y="56" fill="#00FF41" font-weight="700">$ whoami</text>
+  <text x="28" y="78" fill="#eafff0">ignacio_davanzo</text>
+  <text x="28" y="122" fill="#00FF41" font-weight="700">$ cat /etc/role</text>
+  <text x="28" y="144" fill="#eafff0">IT Systems &amp; Software Engineer @ Helle Hollis (España)</text>
+  <text x="28" y="188" fill="#00FF41" font-weight="700">$ cat /etc/education</text>
+  <text x="28" y="210" fill="#eafff0">Ing. en Sistemas de Información — UTN</text>
+  <text x="28" y="254" fill="#00FF41" font-weight="700">$ cat /etc/experience</text>
+  <text x="28" y="276" fill="#eafff0">+5 años en desarrollo, arquitectura y gestión técnica</text>
+  <text x="28" y="320" fill="#00FF41" font-weight="700">$ cat /etc/languages</text>
+  <text x="28" y="342" fill="#eafff0">[español::nativo, english::fluent, italiano::fluido]</text>
+  <text x="28" y="386" fill="#00FF41" font-weight="700">$ cat /etc/current_focus</text>
+  <text x="28" y="408" fill="#eafff0">[arquitectura, cloud, estrategia_tecnologica, automatizacion]</text>
+  <text x="28" y="452" fill="#00FF41" font-weight="700">$ cat philosophy.log</text>
+  <text x="28" y="474" fill="#eafff0">[INFO]   Ingeniero en Sistemas con visión integral:</text>
+  <text x="28" y="496" fill="#eafff0">         desarrollo + infraestructura + estrategia.</text>
+  <text x="28" y="518" fill="#eafff0">[INFO]   Objetivo: impacto real en el negocio,</text>
+  <text x="28" y="540" fill="#eafff0">         más allá del código.</text>
+  <text x="28" y="562" fill="#eafff0">[STATUS] Enfocado en roles con impacto directo,</text>
+  <text x="28" y="584" fill="#eafff0">         combinando dev + infra + decisiones técnicas.</text>
+  <text x="28" y="606" fill="#eafff0">[EOF]</text>
+  <text x="28" y="650" fill="#00FF41" font-weight="700">$ <tspan fill="#00FF41">_<animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></tspan></text>
+</g>
+</g>
+</svg>
