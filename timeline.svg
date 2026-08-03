@@ -1,0 +1,33 @@
+<svg width="1000" height="509" viewBox="0 0 1000 509" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<filter id="nodeGlow" x="-150%" y="-150%" width="400%" height="400%">
+  <feGaussianBlur stdDeviation="5" result="blur"/>
+  <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+</filter>
+</defs>
+<line x1="170" y1="59.1" x2="170" y2="452.1" stroke="#00FF41" stroke-width="2" stroke-opacity="0.45"/>
+<g font-family="Fira Code, monospace">
+  <text x="140" y="65.1" text-anchor="end" font-size="20" font-weight="700" fill="#00FF41">2026</text>
+  <circle cx="170" cy="59.1" r="9" fill="#00FF41" filter="url(#nodeGlow)">
+    <animate attributeName="r" values="7;10;7" dur="1.8s" repeatCount="indefinite"/>
+  </circle>
+  <text x="210" y="69.5" font-size="17" font-weight="700" fill="#eafff0">IT Systems &amp; Software Engineer — Helle Hollis (España)</text>
+  <text x="210" y="90.7" font-size="14" fill="#00FF41" opacity="0.85">Liderazgo IT · Arquitectura · Infraestructura · ERP</text>
+  <text x="210" y="111.7" font-size="14" fill="#00FF41" opacity="0.85">Seguridad · Transformación digital</text>
+  <text x="140" y="179.1" text-anchor="end" font-size="20" font-weight="700" fill="#00FF41">2025</text>
+  <circle cx="170" cy="173.1" r="7" fill="#0a0a0a" stroke="#00FF41" stroke-width="2.5"/>
+  <text x="210" y="183.5" font-size="17" font-weight="700" fill="#eafff0">Software Engineer — G.C.S SL (España)</text>
+  <text x="210" y="204.7" font-size="14" fill="#00FF41" opacity="0.85">React · TypeScript · AWS · CI/CD · GitHub Actions</text>
+  <text x="140" y="272.1" text-anchor="end" font-size="20" font-weight="700" fill="#00FF41">2023</text>
+  <circle cx="170" cy="266.1" r="7" fill="#0a0a0a" stroke="#00FF41" stroke-width="2.5"/>
+  <text x="210" y="276.5" font-size="17" font-weight="700" fill="#eafff0">.NET Fullstack Developer — Cegsoft (Puerto Rico)</text>
+  <text x="210" y="297.7" font-size="14" fill="#00FF41" opacity="0.85">.NET Framework 4.8 · Angular · SQL Server · Azure DevOps</text>
+  <text x="140" y="365.1" text-anchor="end" font-size="20" font-weight="700" fill="#00FF41">2021</text>
+  <circle cx="170" cy="359.1" r="7" fill="#0a0a0a" stroke="#00FF41" stroke-width="2.5"/>
+  <text x="210" y="369.5" font-size="17" font-weight="700" fill="#eafff0">.NET Fullstack Developer — SanCor Seguros (Argentina)</text>
+  <text x="210" y="390.7" font-size="14" fill="#00FF41" opacity="0.85">.NET Core 5 · Xamarin · NHibernate · SOAP</text>
+  <text x="140" y="458.1" text-anchor="end" font-size="20" font-weight="700" fill="#00FF41">2018</text>
+  <circle cx="170" cy="452.1" r="7" fill="#0a0a0a" stroke="#00FF41" stroke-width="2.5"/>
+  <text x="210" y="462.5" font-size="17" font-weight="700" fill="#eafff0">UTN — Ingeniería en Sistemas de Información</text>
+</g>
+</svg>
